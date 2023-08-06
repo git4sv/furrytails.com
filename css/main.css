@@ -212,7 +212,7 @@ video {
     object-fit: cover;
     text-align: center;
     background-color: rgba(195, 195, 195, 0.13);
-    backdrop-filter: blur(5px);
+    backdrop-filter: blur(2px);
 
 }
 
